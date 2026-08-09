@@ -1,6 +1,6 @@
 //area of circle
-import java.util.Scanner;
 
+import java.util.Scanner;
 public class AreaOfCircle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -10,6 +10,7 @@ public class AreaOfCircle {
     }
 }
 //area of square
+
 import java.util.Scanner;
 
 public class AreaOfSquare {
