@@ -15,4 +15,8 @@ public class EvenHundred{
             }
         }
     }
-
+//  second method
+// for(int i=1; i<=sqrt n;i++){
+//  if(n%i==0){
+// system.out.print(i);
+//}
