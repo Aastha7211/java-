@@ -1,8 +1,8 @@
-package Chatgpt.module1;
+package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 
-public class LastOccurence {
+public class ContainElementOrNot {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size if array");
@@ -14,21 +14,23 @@ public class LastOccurence {
 
             arr[i] = sc.nextInt();
         }
-        System.out.print("enter the number whose last  occurence index want: ");
+        System.out.print("enter the number you want to check: ");
         int x= sc.nextInt();
 
-        int index = -1;
+        boolean found = false;
 
-        for(int i=n-1;i>=0;i--){
+        for(int i=0;i<n;i++){
             if(arr[i]==x){
-                index=i;
+                found=true
+                ;
                 break;
 
             }
         }
-
-        System.out.print(index);
-
+        if(found)
+          System.out.print("Element Present in the array" );
+        else
+            System.out.print("element is not present in the array");
 
     }
 }

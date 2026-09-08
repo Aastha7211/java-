@@ -1,4 +1,4 @@
-package Chatgpt.module1;
+package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 

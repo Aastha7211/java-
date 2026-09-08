@@ -1,25 +1,37 @@
-package Chatgpt.module1;
+package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 
-public class AvgOfArray {
+public class LastOccurence {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size if array");
         int n = sc.nextInt();
+
         int[] arr = new int[n];
         System.out.println("enter the element of array");
         for (int i = 0; i < n; i++) {
 
             arr[i] = sc.nextInt();
         }
-        int  sum = 0;
-        double avg = 0;
-        for (int i = 0; i < n; i++) {
-            sum = sum + arr[i];}
+        System.out.print("enter the number whose last  occurence index want: ");
+        int x= sc.nextInt();
 
-            avg = (double) sum /n;
+        int index = -1;
 
-        System.out.print("average of array:" + avg);
+        for(int i=n-1;i>=0;i--){
+            if(arr[i]==x){
+                index=i;
+                break;
+
+            }
+        }
+
+        System.out.print(index);
+
+
     }
 }
+
+
+

@@ -1,8 +1,8 @@
-package Chatgpt.module1;
+package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 
-public class ReverseArray {
+public class AvgOfArray {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size if array");
@@ -13,11 +13,13 @@ public class ReverseArray {
 
             arr[i] = sc.nextInt();
         }
-            for (int i = n - 1; i >= 0; i--) {
-                System.out.print(arr[i] + " ");
-            }
+        int  sum = 0;
+        double avg = 0;
+        for (int i = 0; i < n; i++) {
+            sum = sum + arr[i];}
 
+            avg = (double) sum /n;
+
+        System.out.print("average of array:" + avg);
     }
 }
-
-

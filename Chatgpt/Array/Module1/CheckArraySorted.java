@@ -1,8 +1,8 @@
-package Chatgpt.module1;
+package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 
-public class ContainElementOrNot {
+public class CheckArraySorted {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size if array");
@@ -14,25 +14,21 @@ public class ContainElementOrNot {
 
             arr[i] = sc.nextInt();
         }
-        System.out.print("enter the number you want to check: ");
-        int x= sc.nextInt();
 
-        boolean found = false;
 
-        for(int i=0;i<n;i++){
-            if(arr[i]==x){
-                found=true;
+        boolean sorted =  true;
+
+        for(int i=0;i<n-1;i++){
+            if(arr[i]>arr[i+1]){
+                sorted =false;
                 break;
 
             }
         }
-        if(found)
-          System.out.print("Element Present in the array");
+        if(sorted)
+            System.out.print(" sorted array");
         else
-            System.out.print("element is not present in the array");
+            System.out.print("unsorted array");
 
     }
 }
-
-
-

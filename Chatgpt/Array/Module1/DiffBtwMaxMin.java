@@ -1,8 +1,8 @@
-package Chatgpt.module1;
+package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 
-public class CheckArraySorted {
+public class DiffBtwMaxMin {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size if array");
@@ -15,20 +15,23 @@ public class CheckArraySorted {
             arr[i] = sc.nextInt();
         }
 
+        int max= arr[0];
+        int min = arr[0];
 
-        boolean sorted =  true;
-
-        for(int i=0;i<n-1;i++){
-            if(arr[i]>arr[i+1]){
-                sorted =false;
-                break;
+        for(int i=0;i<n;i++){
+            if(arr[i]>max){
+                max=arr[i];
+            if(arr[i]<min)
+                min=arr[i];
 
             }
         }
-        if(sorted)
-            System.out.print(" sorted array");
-        else
-            System.out.print("unsorted array");
+
+        System.out.print("Difference between the maximum element and minimum element of array = " + (max-min));
+
 
     }
 }
+
+
+
