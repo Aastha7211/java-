@@ -21,7 +21,7 @@ public class FirstOccurence {
     }
 
     public static void main(String[] args) {
-        int[] nums = {10, 20, 30, 40, 40, 50};
+        int[] nums = {10, 20, 40, 30, 40, 50};
         int target = 40;
         int index = firstoccurence(nums, target);
         System.out.print(index);
