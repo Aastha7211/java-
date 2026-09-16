@@ -2,10 +2,11 @@ package Chatgpt.Array.Module1;
 
 import java.util.Scanner;
 
-// with the help  of two pointers
-//public class ReverseArr {
+//  with the help  of two pointers
+
+public class ReverseArr {
 //    public static void main(String[] args){
-//       int []arr={1,2,3,4,5};
+//       int []arr={1,4,2,5,3};
 //        int n=arr.length;
 //        int left =0;
 //        int right=n-1;
@@ -21,7 +22,7 @@ import java.util.Scanner;
 //           }
 //    }
 //}
-
+//
 
 // by using another array
 
@@ -43,25 +44,42 @@ import java.util.Scanner;
 
 // REVERSE ONLY FIRST K ELEMENT
 
-public class ReverseArr {
+//public class ReverseArr {
+//    public static void main(String[] args) {
+//        Scanner sc = new Scanner(System.in);
+//        System.out.print("eneter the first k element  which you want to reverse");
+//        int k = sc.nextInt();
+//        int[] arr = {1, 2, 3, 4, 5};
+//
+//        int left = 0;
+//        int right = k - 1;
+//        while (left < right) {
+//            int temp = arr[left];
+//            arr[left] = arr[right];
+//            arr[right] = temp;
+//            left++;
+//            right--;
+//
+//            for (int i = 0; i < arr.length; i++) {
+//                System.out.print(arr[i] + " ");
+//            }
+//        }
+//    }
+//}
+
+
+    // BY USING FOR LOOP
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.print("eneter the first k element  which you want to reverse");
-        int k = sc.nextInt();
-        int[] arr = {1, 2, 3, 4, 5};
+        int[] arr = {1, 5, 3, 5, 6, 2};
+        int n = arr.length;
+        for (int i = 0; i < arr.length / 2; i++) {
+            int temp = arr[i];
 
-        int left = 0;
-        int right = k - 1;
-        while (left < right) {
-            int temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
-
-            for (int i = 0; i < arr.length; i++) {
-                System.out.print(arr[i] + " ");
-            }
+            arr[i] = arr[n - 1 - i];
+            arr[n - 1 - i] = temp;
         }
+           for(int i=0;i<n;i++){
+        System.out.print(arr[i] + " ");
+    }
     }
 }
