@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cffb3201-368d-4abe-8666-f1ad09981ca7" name="Changes" comment="loops">
+      <change afterPath="$PROJECT_DIR$/Strings/InterningNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Array/ReverseInGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/Array/ReverseInGroup.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Aastha7211&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Aastha7211/java-&quot;,
+    &quot;accountId&quot;: &quot;57f773b9-96cc-401e-ac33-0b555cc240fa&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3HJUUu9ZCmzuGddlQW4G40RmnOM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ABCD.executor": "Run",
+    "Application.ASCII.executor": "Run",
+    "Application.AddMultiply.executor": "Run",
+    "Application.AreaOfCircle.executor": "Run",
+    "Application.Arguments.executor": "Run",
+    "Application.ArrayBasic.executor": "Run",
+    "Application.ArthematicProgression.executor": "Run",
+    "Application.AvgOfArray.executor": "Run",
+    "Application.BasicBinarySearch.executor": "Run",
+    "Application.BasicLoops.executor": "Run",
+    "Application.BasicOperation.executor": "Run",
+    "Application.BestCard.executor": "Run",
+    "Application.BinarySearch.LastOccurence.executor": "Run",
+    "Application.BinaryTriangle.executor": "Run",
+    "Application.CheckArraySorted.executor": "Run",
+    "Application.CompareToFunction.executor": "Run",
+    "Application.ContainElementOrNot.executor": "Run",
+    "Application.CopyArr.executor": "Run",
+    "Application.CountDigits.executor": "Run",
+    "Application.CountVowelnSring.executor": "Run",
+    "Application.DiagonalPattern.executor": "Run",
+    "Application.DiffBtwMaxMin.executor": "Run",
+    "Application.DifferentPatternPrint.executor": "Run",
+    "Application.Divisible.executor": "Run",
+    "Application.EvenHundred.executor": "Run",
+    "Application.EvenOdd.executor": "Run",
+    "Application.FirstAndLastOccurence.executor": "Run",
+    "Application.FirstOccurence.executor": "Run",
+    "Application.FloydTriangle.executor": "Run",
+    "Application.GreaterNum.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
+    "Application.InterningNew.executor": "Run",
+    "Application.InvertedRight.executor": "Run",
+    "Application.LastOccurence.executor": "Run",
+    "Application.Loops.executor": "Run",
+    "Application.MaxConsicutiveOnes.executor": "Run",
+    "Application.MaxElement.executor": "Run",
+    "Application.MaxMinElement.executor": "Run",
+    "Application.MergeTwoSortedArray.executor": "Run",
+    "Application.MissingNUmber.executor": "Run",
+    "Application.MixedIntChar.executor": "Run",
+    "Application.Module1.executor": "Run",
+    "Application.Number1234.executor": "Run",
+    "Application.OutputInput.executor": "Run",
+    "Application.PalindromString.executor": "Run",
+    "Application.PassingToMethod.executor": "Run",
+    "Application.PermutationCombination.executor": "Run",
+    "Application.Plus.executor": "Run",
+    "Application.PrimeOrNotPrime.executor": "Run",
+    "Application.PrintAllElement.executor": "Run",
+    "Application.PrintAllSubstring.executor": "Run",
+    "Application.PrintNegative.executor": "Run",
+    "Application.ProductOfElemnet.executor": "Run",
+    "Application.ProfitLoss.executor": "Run",
+    "Application.RectGreater.executor": "Run",
+    "Application.RecursiveBinarySearch.executor": "Run",
+    "Application.RemoveDuplicate.executor": "Run",
+    "Application.ReturnType.executor": "Run",
+    "Application.ReverseArr.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.ReverseInGroup.executor": "Run",
+    "Application.RightAngle.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SearchElement.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.Sequence.executor": "Run",
+    "Application.SideOfTriangle.executor": "Run",
+    "Application.SingleElement.executor": "Run",
+    "Application.SolidRect.executor": "Run",
+    "Application.SortOfArray.executor": "Run",
+    "Application.Square.executor": "Run",
+    "Application.StarTriVerticalFlipped.executor": "Run",
+    "Application.StringBasic.executor": "Run",
+    "Application.StringDeclaration.executor": "Run",
+    "Application.StringMethods.executor": "Run",
+    "Application.SubarraySumsEqualK.executor": "Run",
+    "Application.SumOfElement.executor": "Run",
+    "Application.SumOfNaturalNumber.executor": "Run",
+    "Application.Syntax.executor": "Run",
+    "Application.Table.executor": "Run",
+    "Application.TriangleFliped.executor": "Run",
+    "Application.TwoSum.executor": "Run",
+    "Application.conditional.executor": "Run",
+    "Application.main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.completion.inline"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Chatgpt.module1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InterningNew">
+    <configuration name="CompareToFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.CompareToFunction" />
+      <module name="java-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterningNew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.InterningNew" />
+      <module name="java-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Plus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.Plus" />
+      <module name="java-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintAllSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.PrintAllSubstring" />
+      <module name="java-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.ReverseInGroup" />
+      <module name="java-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InterningNew" />
+        <item itemvalue="Application.ReverseInGroup" />
+        <item itemvalue="Application.PrintAllSubstring" />
+        <item itemvalue="Application.Plus" />
+        <item itemvalue="Application.CompareToFunction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cffb3201-368d-4abe-8666-f1ad09981ca7" name="Changes" comment="" />
+      <created>1785585683621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1785585683621</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add files via upload" />
+    <MESSAGE value="java" />
+    <MESSAGE value="loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="loops" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/Loops/EvenHundred.java</url>
+          <line>4</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PatternPrint/MixedIntChar.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/PatternPrint/StarTriVerticalFlipped.java</url>
+          <line>4</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PatternPrint/TriangleFliped.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="NONE" type="java-line">
+          <url>file://$PROJECT_DIR$/Mathematics/PermutationCombination.java</url>
+          <line>14</line>
+          <placement>INTER_LINE</placement>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Strings/StringDeclaration.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
