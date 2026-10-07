@@ -10,7 +10,7 @@ public class ReverseInGroup {
             int right = Math.min(i + k - 1, n - 1);
             while (left < right) {
                 int temp = arr[left];
-                arr[left] = arr[right];
+                arr[left] = arr[right] ;
                 arr[right] = temp;
                 left++;
                 right--;
